@@ -5,4 +5,4 @@ When you run the tool, first of all, it scans your computer's harddrivers' names
 
 NOTE: This tool has written for Windows OS.
 
-#Disclaimer: I wrote this tool to answer what's the idea behind of the reverse shell so just use only educational purposes.
+Disclaimer: I wrote this tool for only educational purposes.
